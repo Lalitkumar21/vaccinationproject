@@ -1,6 +1,7 @@
 # vaccinationproject
 Created a database management system using python interface connected mysql for storing data.
 
+
 prerequisite:
 ☠️Mysql should be installed on your device before starting it. https://dev.mysql.com/downloads/installer/
 ☠️create a database in your mysql of 'project' name.
